@@ -1,10 +1,10 @@
-package jar;
+package io.otomato.multimodule;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App2
 {
     public static void main( String[] args )
     {
